@@ -1,0 +1,21 @@
+body {
+    background: pink;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.box {
+    background: white;
+    padding: 30px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    background: hotpink;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
